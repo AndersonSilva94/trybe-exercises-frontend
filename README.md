@@ -15,7 +15,7 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Componentes com Estado, Eventos e Formulários com React
 ---
 
-- [ ] Componentes com estado e eventos
+- [x] Componentes com estado e eventos
 - [ ] Formulários no React
 
 ### Ciclo de Vida de Componentes e React Router

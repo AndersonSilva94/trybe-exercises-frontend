@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.pokedex {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-type, button {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.pokemon {
+  width: 40%;
+  font-size: 20px;
+  box-shadow: 2px 2px 2px grey;
+  margin: 20px auto
+}
