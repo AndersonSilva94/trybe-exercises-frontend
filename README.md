@@ -9,8 +9,8 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Introdução à React
 ---
 
-- [ x ] Introdução Front-End/ Introdução React/ 'Hello, world!' no React!
-- [ ] Componentes React
+- [x] Introdução Front-End/ Introdução React/ 'Hello, world!' no React!
+- [x] Componentes React
 
 ### Componentes com Estado, Eventos e Formulários com React
 ---
