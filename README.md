@@ -21,7 +21,7 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Ciclo de Vida de Componentes e React Router
 ---
 
-- [ ] Ciclo de vida de componentes
+- [x] Ciclo de vida de componentes
 - [ ] React Router
 
 ### Metodologias Ágeis
