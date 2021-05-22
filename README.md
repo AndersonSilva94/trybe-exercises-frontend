@@ -22,12 +22,12 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ---
 
 - [x] Ciclo de vida de componentes
-- [ ] React Router
+- [x] React Router
 
 ### Metodologias Ágeis
 ---
 
-- [ ] Metodologias Ágeis
+- [x] Metodologias Ágeis
 
 ### Testes automatizados com React Testing Library
 ---
