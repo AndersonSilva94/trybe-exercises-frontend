@@ -32,17 +32,17 @@ No presente repositório constam todos os exercícios referentes aos blocos de c
 ### Testes automatizados com React Testing Library
 ---
 
-- [ ] RTL - Primeiros passos
-- [ ] RTL - Mocks e Inputs
-- [ ] RTL - Testando React Router
+- [x] RTL - Primeiros passos
+- [x] RTL - Mocks e Inputs
+- [x] RTL - Testando React Router
 
 ### Gerenciamento de estado com Redux
 ---
 
-- [ ] Introdução ao Redux - O estado global da aplicação
-- [ ] Usando o Redux no React
-- [ ] Usando o Redux no React - Prática
-- [ ] Usando o Redux no React - Actions Assíncronas
+- [x] Introdução ao Redux - O estado global da aplicação
+- [x] Usando o Redux no React
+- [x] Usando o Redux no React - Prática
+- [x] Usando o Redux no React - Actions Assíncronas
 - [ ] Testes em React-Redux
 
 ### Context API e React Hooks
